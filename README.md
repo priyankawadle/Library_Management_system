@@ -1,1 +1,2 @@
 # Library_Management_system
+The objective of the library management project is to record the details various activities of user.It also help to provide information on any book present in the library to the user as well as staff members. Penalty is calculated automatically by multipling late days with late fees. Librarian can send SMS to members easily. Librarian can search books, members in library.
